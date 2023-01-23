@@ -30,6 +30,10 @@ Then users can :
 
 - Download a video of the combined animation and audio
 
+### Looper Concept
+
+![Looper Concept Diagram](looper_concept.png)
+
 ### Stretch Goals
 
 - Add additional video editing for specific platforms (e.g tic toc etc )
