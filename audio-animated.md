@@ -15,7 +15,7 @@ There will be a user configuration setting to pick things like color scheme.
 We want to ensure everything that we outline in our MVP is possible before we get too far into the project. The proof of concept work will include:
 
 - Create animation from audio
-- Being able to combine to audio files into a single track (and have the timing match up)
+- Being able to combine two audio files into a single track (and have the timing match up)
 
 ### MVP
 
